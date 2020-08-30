@@ -14,4 +14,6 @@ Paper link:
 
 ## Some more details
 
-https://www.notion.so/Intelliquench-Docs-edc64b19e4434b78aca3e9aa340aacc3
+- Path to processed data (converted to `npy` format) on cmslpc server: `/uscms_data/d3/dhoang/quench-detector`
+
+- Additional info: https://www.notion.so/Intelliquench-Docs-edc64b19e4434b78aca3e9aa340aacc3
